@@ -2,7 +2,7 @@
 
 Bu proje, yayımlanmış ülke bazlı CSAM istatistiklerini etkileşimli bir dünya haritasında gösterir. Ayrıca 2024 verilerini kullanarak 2025 değerlerini tahmin eden bir karar ağacı kurar ve modelin tahminlerini ayrı test verisinde değerlendirir.
 
-Proje, adli bilimlerle ilgili bir veri setinde tahmin modeli kurulmasını isteyen ders ödevi için hazırlanmıştır. Modelleme bölümü, Chapter 4.2'de anlatılan `rpart` regresyon ağacı, budama ve test yaklaşımını kullanır.
+Proje, adli bilimlerle ilgili bir veri setinde tahmin modeli kurulmasını isteyen ders ödevi için hazırlanmıştır.
 
 > Bu bir gerçek olay, mağdur, fail veya indirme noktası haritası değildir. Proje istismar içeriği indirmez; bu içeriklere ait ham URL listeleri, IP adresleri veya kişisel veriler toplamaz.
 
